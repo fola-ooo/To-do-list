@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55fc7f1b-1bea-4a1b-85bd-bb5895c8e8d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yg5lUn72FWSKy4LjfVdxNZXKSO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55fc7f1b-1bea-4a1b-85bd-bb5895c8e8d0" name="Default Changelist" comment="" />
+      <created>1583351547290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583351547290</updated>
+      <workItem from="1583351548736" duration="25776000" />
+      <workItem from="1583614878378" duration="11699000" />
+      <workItem from="1583876720418" duration="1873000" />
+      <workItem from="1583924725794" duration="17578000" />
+      <workItem from="1584452576679" duration="21337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1120" y="200" width="800" height="677" key="#ESLint" timestamp="1584309282859">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1120" y="200" width="800" height="677" key="#ESLint/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1584309282859" />
+    <state x="2475" y="200" width="800" height="677" key="#ESLint/0.27.3840.1053@0.27.3840.1053" timestamp="1583451328430" />
+    <state x="2613" y="288" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583419776414">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2613" y="288" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1583419776414" />
+    <state x="1246" y="257" width="1344" height="678" key="search.everywhere.popup" timestamp="1584975482413">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583677392301" />
+    <state x="1246" y="257" width="1344" height="678" key="search.everywhere.popup/0.27.3840.1053@0.27.3840.1053" timestamp="1584975482413" />
+  </component>
+</project>

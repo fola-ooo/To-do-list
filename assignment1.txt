@@ -1,0 +1,5 @@
+
+- do not allow empty titles in the todo creation
+- implement a 'Y' button with a green color next to the 'X' button which changes the text color of the affected item's title to green
+
+Due Date: Wed. 11th March 2020
